@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there! 👋 I'm Marios
 
 <!--
 **MariosPapadopoulos/MariosPapadopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+I'm an **Electrical & Electronic Engineer** specialising in **Machine Learning** and **Signal Processing**. I'm currently pursuing my PhD at Imperial College London, where I also completed my MEng degree.
+
+## Skills & Technologies
+- **Machine Learning Frameworks**: PyTorch, TensorFlow
+- **Data Science**: scikit-learn, numpy
+- **Programming Languages**: Python, C++, MATLAB, JavaScript
+- **Web Development**: HTML, CSS, React
+- **Specialisations**: Machine Learning, Signal Processing
+- **Background**: Electrical & Electronic Engineering
+
+## Interests
+- Machine Learning applications
+- Signal Processing techniques
+- Research and Development
