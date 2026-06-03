@@ -15,19 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
-I'm an **Electrical & Electronic Engineer** specialising in **Machine Learning** and **Signal Processing**. I'm currently pursuing my PhD at Imperial College London, where I also completed my MEng degree.
+## About
+I'm an **Electrical & Electronic Engineer** specializing in **Machine Learning** and **Signal Processing**. I'm currently pursuing my PhD at Imperial College London, where I also completed my MEng degree.
 
 ## Skills & Technologies
 - **Machine Learning Frameworks**: PyTorch, TensorFlow
 - **Data Science**: scikit-learn, numpy
 - **Programming Languages**: Python, C++, MATLAB, JavaScript
 - **Web Development**: HTML, CSS, React
-- **Specialisations**: Machine Learning, Signal Processing
 - **Background**: Electrical & Electronic Engineering
 
 ## Interests
 - Deep learning
 - Signal processing
 - Computer vision
-- R&D
