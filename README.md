@@ -27,6 +27,7 @@ I'm an **Electrical & Electronic Engineer** specialising in **Machine Learning**
 - **Background**: Electrical & Electronic Engineering
 
 ## Interests
-- Machine Learning applications
-- Signal Processing techniques
-- Research and Development
+- Deep learning
+- Signal processing
+- Computer vision
+- R&D
