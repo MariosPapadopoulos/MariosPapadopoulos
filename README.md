@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About
-I'm an **Electrical & Electronic Engineer** specializing in **Machine Learning** and **Signal Processing**. I'm currently pursuing my PhD at Imperial College London, where I also completed my MEng degree.
+I'm an **Electrical & Electronic Engineer** specializing in **Machine Learning** and **Signal Processing**. I'm currently pursuing my PhD in medical imaging at Imperial College London, where I also completed my MEng degree in Electrical & Electronic Engineering.
 
 ## Skills & Technologies
 - **Machine Learning Frameworks**: PyTorch, TensorFlow
